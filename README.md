@@ -4,6 +4,9 @@ Getting an intuitive understanding to machine learning concepts by Luis G. Serra
 As Serrano mentions, you understand music through songs and melodies, and not math and formulas. Likewise, you can understand machine learning, not
 through complex formulae, but through intuitive understanding of concepts.
 
+<img width="703" height="796" alt="image" src="https://github.com/user-attachments/assets/d51d60d7-4328-4813-bdd6-ffed5d1fcba0" />
+
+
 ---
 
 ## Chapter Covered
