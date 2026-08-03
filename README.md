@@ -11,8 +11,8 @@ through complex formulae, but through intuitive understanding of concepts.
 
 ## Chapter Covered
 - 🟢 What is Machine Learning? It is common sense, except done by a computer
-- 🔴 Types of Machine Learning
-- 🔴 Drawing a Line close to our points: Linear Regression
+- 🟢 Types of Machine Learning
+- 🟠 Drawing a Line close to our points: Linear Regression
 - 🔴 Optimizing the Training Process: Underfitting, Overfitting, Testing, and Regularization
 - 🔴 Using Lines to Split our Points: The Perceptron Algorithm
 - 🔴 A continuous Approach to Splitting Points: Logistic Classifiers
@@ -31,12 +31,12 @@ through complex formulae, but through intuitive understanding of concepts.
 Complementing this book with the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Andrew Ng (DeepLearning.AI & Stanford Online). While Serrano's book builds intuition, this specialization adds hands-on practice implementing the algorithms.
 
 ### Course 1: Supervised Machine Learning: Regression and Classification
-- 🔴 Introduction to Machine Learning
-- 🔴 Regression with Multiple Input Variables
-- 🔴 Classification
+- 🟢 Introduction to Machine Learning
+- 🟢 Regression with Multiple Input Variables
+- 🟢 Classification
 
 ### Course 2: Advanced Learning Algorithms
-- 🔴 Neural Networks
+- 🟠 Neural Networks
 - 🔴 Neural Network Training
 - 🔴 Advice for Applying Machine Learning
 - 🔴 Decision Trees
