@@ -10,7 +10,7 @@ through complex formulae, but through intuitive understanding of concepts.
 ---
 
 ## Chapter Covered
-- 🔴 What is Machine Learning? It is common sense, except done by a computer
+- 🟢 What is Machine Learning? It is common sense, except done by a computer
 - 🔴 Types of Machine Learning
 - 🔴 Drawing a Line close to our points: Linear Regression
 - 🔴 Optimizing the Training Process: Underfitting, Overfitting, Testing, and Regularization
@@ -23,6 +23,28 @@ through complex formulae, but through intuitive understanding of concepts.
 - 🔴 Finding Boundaries with Style: Support Vector Machines
 - 🔴 Combining Models to Maximize Results: Ensemble Learning
 - 🔴 Putting it all in Practice: A Real-Life Example of Data Engineering and Machine Learning
+
+---
+
+## Andrew Ng's Machine Learning Specialization (Coursera)
+
+Complementing this book with the [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) by Andrew Ng (DeepLearning.AI & Stanford Online). While Serrano's book builds intuition, this specialization adds hands-on practice implementing the algorithms.
+
+### Course 1: Supervised Machine Learning: Regression and Classification
+- 🔴 Introduction to Machine Learning
+- 🔴 Regression with Multiple Input Variables
+- 🔴 Classification
+
+### Course 2: Advanced Learning Algorithms
+- 🔴 Neural Networks
+- 🔴 Neural Network Training
+- 🔴 Advice for Applying Machine Learning
+- 🔴 Decision Trees
+
+### Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
+- 🔴 Unsupervised Learning
+- 🔴 Recommender Systems
+- 🔴 Reinforcement Learning
 
 ---
 
